@@ -14,6 +14,8 @@ Form-based designing means you don't need to be an OpenAPI expert to get started
 
 To find out more about how you can quickly design and prototype APIs without writing a single line of JSON or YAML, see (TODO: Add link here).
 
+![ApiBldr visual design](assets/images/apibldr_main_page.png)
+
 ## JSON Schema Modeling
 
 ApiBldr is not just for APIs, you can also create and modify standalone JSON Schema files for storing data models.
