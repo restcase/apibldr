@@ -1,16 +1,16 @@
 # ApiBldr - Visual API Designer
 
-ApiBldr is an application for API design and modeling. A primary goal of ApiBldr is enable the API-First design approach and to make it in a visual manner so that even non-programmers.
+ApiBldr is an application for API design and modeling. A primary goal of ApiBldr is to enable the API-First design approach for both developers and non-developers and to save valuable development time.
 
 ## Full Support for Swagger v2, OpenAPI v3, AsyncAPI v2
 
-ApiBldr comes with full support for the OpenAPI versions 2 (swagger) and 3 specification formats for all functionality except links and callbacks and also a support for AsyncAPI specificaiton. 
+ApiBldr comes with full support for the OpenAPI versions 2 (swagger) and 3 specification formats for all functionality except links and callbacks and also support for AsyncAPI specification. 
 
 ![ApiBldr loves Swagger + OpenAPI + AsyncAPI](assets/images/asyncapi_openapi_swagger_equal_heart.png)
 
 ## Graphical API Design
 
-Form-based designing means you don't need to be an OpenAPI expert to get started. ApiBldr has a "write" (code) mode with full OpenAPI autocomplete, and a "read" mode for visualizing HTTP operations and models.
+Form-based design means you don't need to be an OpenAPI expert to get started. ApiBldr has a "write" (code) mode with full OpenAPI autocomplete, and a "read" mode for visualizing HTTP operations and models.
 
 To find out more about how you can quickly design and prototype APIs without writing a single line of JSON or YAML, see (TODO: Add link here).
 
@@ -29,7 +29,4 @@ ApiBldr allows you to quickly and easily find and reuse the objects you need, as
 ## Markdown
 
 ApiBldr enables a few advanced block types that will enrich your user’s documentation experience.
-
-
-
 
