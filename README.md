@@ -1,6 +1,8 @@
-# ApiBldr - Visual API Designer
+# ApiBldr - Free Visual API Designer
 
 ApiBldr is an application for API design and modeling. A primary goal of ApiBldr is to enable the API-First design approach for both developers and non-developers and to save valuable development time.
+
+[checkout the ApiBldr](https://apibldr.com)
 
 ## Full Support for Swagger v2, OpenAPI v3, AsyncAPI v2
 
